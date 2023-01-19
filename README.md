@@ -24,7 +24,7 @@ Once we were done with the design. We moved on to optimization phase. We noticed
  ![Diagram 1](resources/show1.png)
   ![Diagram 2](resources/show2.png)
   ### S11 vs Frequency
-  ![Graph](resources/Graph.png )
+  ![Graph](resources/graph.png )
   ### SAR Calculation
   ![SAR diagram 1](resources/sarshow.png)
    ![SAR diagram 2](resources/sarvalue.png)
